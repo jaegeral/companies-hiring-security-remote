@@ -8,4 +8,6 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |
+| Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |
+| Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |
 | Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |
