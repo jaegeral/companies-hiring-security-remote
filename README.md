@@ -24,5 +24,5 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |
 | Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |
 | Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |
-| Nextrons Systems |   |All| Full remote |  | [Link!](https://www.nextron-systems.com/jobs/) |
+| Nextrons Systems |   |All| Remote with weekly checkin to the office in DE | After discussion with https://twitter.com/cyb3rops | [Link!](https://www.nextron-systems.com/jobs/) |
 | Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |
