@@ -3,11 +3,17 @@ This repo is meant to be a list of companies that hire security people full remo
 
 You can help that list by creating issues or creating merge requests.
 
+Some companies promote remote talents, some other don't but are not against it, companies are okay to be listed if one or the other is true (listing a source is prefered!)
+
+Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.
+
 Company | Description | Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|
 |---|---|---|---|---|---|
 | Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |
+| DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |
 | Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |
 | Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |
+| Nextrons Systems |   |All| Full remote |  | [Link!](https://www.nextron-systems.com/jobs/) |
 | Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |
