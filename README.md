@@ -22,6 +22,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Cisco  |   | Some | Full remote | https://jobs.cisco.com/jobs/SearchJobs | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |
 | DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |
+| Fastly |   |All| Full remote | https://www.fastly.com/about/careers | [Link!](https://www.fastly.com/about/careers) |
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |
 | Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |
 | Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |
