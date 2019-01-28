@@ -18,6 +18,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 Company | Description | Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
 |---|---|---|---|---|---|---|
+| Appsecconsulting |   | Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
 | Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
 | Cisco  |   | Some | Full remote | https://jobs.cisco.com/jobs/SearchJobs | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |?|
