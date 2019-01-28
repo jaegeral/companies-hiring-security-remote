@@ -16,16 +16,16 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 # List
 
-Company | Description | Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|
-|---|---|---|---|---|---|
-| Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |
-| Cisco  |   | Some | Full remote | https://jobs.cisco.com/jobs/SearchJobs | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |
-| Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |
-| DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |
-| Fastly |   |All| Full remote | https://www.fastly.com/about/careers | [Link!](https://www.fastly.com/about/careers) |
-| Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |
-| Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |
-| Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |
-| Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with https://twitter.com/cyb3rops | [Link!](https://www.nextron-systems.com/jobs/) |
-| RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |
-| Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |
+Company | Description | Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
+|---|---|---|---|---|---|---|
+| Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
+| Cisco  |   | Some | Full remote | https://jobs.cisco.com/jobs/SearchJobs | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
+| Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | https://www.crowdstrike.com/careers/ | [Link!](https://www.crowdstrike.com/careers/) |?|
+| DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
+| Fastly |   |All| Full remote | https://www.fastly.com/about/careers | [Link!](https://www.fastly.com/about/careers) |?|
+| Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | https://www.fireeye.com/company/jobs.html | [Link!](https://www.fireeye.com/company/jobs.html) |?|
+| Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |?|
+| Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |?|
+| Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with https://twitter.com/cyb3rops | [Link!](https://www.nextron-systems.com/jobs/) |?|
+| RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
+| Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
