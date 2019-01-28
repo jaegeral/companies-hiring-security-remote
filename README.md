@@ -33,3 +33,5 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 | tumblr |   |Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | Unit42 Palo Alto |   |Research| Full remote | [Link!](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
+| Wikimedia Foundation |   || Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
+
