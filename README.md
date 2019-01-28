@@ -26,6 +26,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Fastly |   |All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
 | Gitlab |   |All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
+| Lets encrypt |   |All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
 | Mozilla |   |All| Full remote / Remote US | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
 | phobos.io |   |All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
