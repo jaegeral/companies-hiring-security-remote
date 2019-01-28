@@ -27,5 +27,6 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Gitlab |   |All| Full remote | https://about.gitlab.com/jobs/apply/ | [Link!](https://about.gitlab.com/jobs/apply/) |?|
 | Mozilla |   |All| Full remote / Remote US | https://careers.mozilla.org/ | [Link!](https://careers.mozilla.org/) |?|
 | Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with https://twitter.com/cyb3rops | [Link!](https://www.nextron-systems.com/jobs/) |?|
+| US BanK |   |?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 | Unit42 Palo Alto |   |Research| Full remote | https://unit42.paloaltonetworks.com/about-unit-42/ | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
