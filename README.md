@@ -42,5 +42,6 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | tumblr |   |Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | TwelveSec |   |All| Full remote | [Link!](https://www.twelvesec.com/jobs/) | [Link!](https://twelvesec.workable.com/) |?|
 | Unit42 Palo Alto |   |Research| Full remote | [Link!](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
+| VMRay | Sandbox technology from Germany  || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wikimedia Foundation |   || Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
 
