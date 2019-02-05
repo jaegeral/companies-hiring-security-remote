@@ -32,6 +32,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Inquest |   |Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel |   |Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
 | Lets encrypt |   |All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
+| Kaspersky |   |?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
 | Mozilla |   |All| Full remote / Remote US | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft |   |PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
 | Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
