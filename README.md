@@ -1,20 +1,20 @@
 # Companies hiring remote
 This repo is meant to be a list of companies that hire security people full remote.
 
-# Motivation
+## Motivation
 
 According to some [articles](https://www.forbes.com/sites/forbestechcouncil/2018/08/09/the-cybersecurity-talent-gap-is-an-industry-crisis/#13bec3c0a6b3) there is a huge gap of security talent, one reason being the shortage of remote welcome positions. The more talent gap there is, the more the talented people can choose positions, so promoting remote friendly positions / teams is a way to attract people.
 
-# Contributing
+## Contributing
 You can help that list by creating issues or creating merge requests.
 
-# Quality Gate
+## Quality Gate
 
 Some companies promote remote talents, some other don't but are not against it, companies are okay to be listed if one or the other is true (listing a source is prefered!)
 
 Remote is meant to allow people from anywhere (or at least anywhere in a given timezone) without being forced to be in an office on a daily base.
 
-# List
+## List
 
 Company | Description | Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
 |---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Places to find remote job postings:
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
 * [Ninjajobs](https://ninjajobs.org/)
 
-# FAQ
+## FAQ
 
 Q: Company x is listed but does not offer a remote job at the moment - why is it listed?
 
