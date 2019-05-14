@@ -3,7 +3,7 @@ This repo is meant to be a list of companies that hire security people full remo
 
 # Motivation
 
-According to multiple articles (e.g. https://www.forbes.com/sites/forbestechcouncil/2018/08/09/the-cybersecurity-talent-gap-is-an-industry-crisis/#13bec3c0a6b3 ) there is a huge gap of security talent, one reason being the shortage of remote welcome positions. The more talent gap there is, the more the talented people can choose positions, so promoting remote friendly positions / teams is a way to attract people.
+According to some [articles](https://www.forbes.com/sites/forbestechcouncil/2018/08/09/the-cybersecurity-talent-gap-is-an-industry-crisis/#13bec3c0a6b3) there is a huge gap of security talent, one reason being the shortage of remote welcome positions. The more talent gap there is, the more the talented people can choose positions, so promoting remote friendly positions / teams is a way to attract people.
 
 # Contributing
 You can help that list by creating issues or creating merge requests.
@@ -54,5 +54,15 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | VMRay | Sandbox technology from Germany  || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wikimedia Foundation |   || Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
 
-Places to find remote job postings:
-https://remoteok.io/remote-infosec-jobs
+Places to find remote job postings: 
+* [remoteok.io](https://remoteok.io/remote-infosec-jobs)
+* [Ninjajobs](https://ninjajobs.org/)
+
+#FAQ
+
+Q: Company x is listed but does not offer a remote job at the moment - why is it listed?
+A: I try very hard to keep the list up2date as possible, so at the time of adding a organisation, that organisation either offered a remote security job or had a public statement, that they are remote friendly. But as time goes on, organisations might not have (remote) positions open or even change the approach to remote friendly envirenment.
+
+Q: Company X is not listed, but is remote friendly, can we add it?
+A: Sure, either make a pull request or raise an issue or tell me via twitter
+
