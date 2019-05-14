@@ -1,4 +1,4 @@
-# companies-hiring-security-remote
+# Companies hiring remote
 This repo is meant to be a list of companies that hire security people full remote.
 
 # Motivation
