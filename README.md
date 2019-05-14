@@ -43,6 +43,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Microsoft |   |PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
 | Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
 | phobos.io |   |All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
+| Proofpoint |   |Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | US BanK |   |?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 | SecurityScoreCard |   |Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
