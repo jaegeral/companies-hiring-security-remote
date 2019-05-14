@@ -58,11 +58,13 @@ Places to find remote job postings:
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
 * [Ninjajobs](https://ninjajobs.org/)
 
-#FAQ
+# FAQ
 
 Q: Company x is listed but does not offer a remote job at the moment - why is it listed?
+
 A: I try very hard to keep the list up2date as possible, so at the time of adding a organisation, that organisation either offered a remote security job or had a public statement, that they are remote friendly. But as time goes on, organisations might not have (remote) positions open or even change the approach to remote friendly envirenment.
 
 Q: Company X is not listed, but is remote friendly, can we add it?
+
 A: Sure, either make a pull request or raise an issue or tell me via twitter
 
