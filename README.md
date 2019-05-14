@@ -69,3 +69,5 @@ Q: Company X is not listed, but is remote friendly, can we add it?
 
 A: Sure, either make a pull request or raise an issue or tell me via twitter
 
+Q: Is that page also available as webpage?
+A: yes: https://deralexxx.github.io/companies-hiring-security-remote/
