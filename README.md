@@ -35,6 +35,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Gitlab |   |All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
 | Heroku |   |Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch |   |Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
+| ImmersiveLabs |   |Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
 | Inquest |   |Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel |   |Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
 | Lets encrypt |   |All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
