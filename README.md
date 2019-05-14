@@ -33,6 +33,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Fireeye |   |Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
 | FoxIT |   |Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://www.fox-it.com/nl/werken-bij-fox-it/vacatures/vacancy/threat-analyst-2/) |?|
 | Gitlab |   |All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
+| Heroku |   |Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch |   |Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
 | Inquest |   |Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel |   |Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
