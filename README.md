@@ -22,6 +22,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Appsecconsulting |   | Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
 | Auth0 |   | All|Full remote okay  | Career Page | [Link!](https://auth0.com/careers) |?|
 | BlackKnight |   | | Some areas | At a job posting page | [Link!](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |?|
+| BreakPoint Labs  |   | Some | Full remote | [Link!](https://twitter.com/0xcc_labs/status/1128640482635079680) | [Link!](http://breakpoint-labs.com/opportunities.php) |?|
 | Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
 | Cisco  |   | Some | Full remote | [Link!](https://jobs.cisco.com/jobs/SearchJobs) | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
