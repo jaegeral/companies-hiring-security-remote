@@ -24,7 +24,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | BlackKnight |   | | Some areas | At a job posting page | [Link!](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |?|
 | BreakPoint Labs  |   | Some | Full remote | [Link!](https://twitter.com/0xcc_labs/status/1128640482635079680) | [Link!](http://breakpoint-labs.com/opportunities.php) |?|
 | Canonical  |   | Some | Full remote | At a job posting | [Link!](https://www.canonical.com/careers/all-vacancies) |?|
-| Cisco Talos |   | | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
+| Cisco Talos |  | Some | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
 | Cisco  |   | Some | Full remote | [Link!](https://jobs.cisco.com/jobs/SearchJobs) | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
 | DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
