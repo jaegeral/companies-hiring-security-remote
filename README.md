@@ -53,6 +53,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Proofpoint |   |Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | US BanK |   |?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ |   |Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
+| ReversingLabs |   |?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://reversinglabs.workable.com) |?|
 | SecurityScoreCard |   |Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
 | Semmle |   |Some areas| Full remote | Job posting | [Link!](https://semmle.com/careers) |?|
 | tenable |   |Some Jobs| Full remote | [Link](https://careers.tenable.com/jobs/search?page=1&city%5B%5D=Remote&query=) | [Link!](https://careers.tenable.com) |?|
