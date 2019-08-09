@@ -46,6 +46,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Kaspersky |   |?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
 | Mozilla |   |All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft |   |PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
+| Major League Baseball |   |?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](http://mlb.mlb.com/careers/index.jsp) |?|
 | Nextrons Systems |   |All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
 | Novetta |   |?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.novetta.com/careers/) |?|
 | phobos.io |   |All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
