@@ -62,6 +62,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | TwelveSec |   |All| Full remote | [Link!](https://www.twelvesec.com/jobs/) | [Link!](https://twelvesec.workable.com/) |?|
 | Unit42 Palo Alto |   |Research| Full remote | [Link!](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
 | VMRay | Sandbox technology from Germany  || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
+| Wells Fargo |   || Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://employment.wellsfargo.com/) |?|
 | Wikimedia Foundation |   || Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
 
 Places to find remote job postings: 
