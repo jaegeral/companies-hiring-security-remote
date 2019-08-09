@@ -27,6 +27,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Cisco Talos |  | Some | ? | At a job posting page | [Link!](https://www.talosintelligence.com/careers) |?|
 | Cisco  |   | Some | Full remote | [Link!](https://jobs.cisco.com/jobs/SearchJobs) | [Link!](https://jobs.cisco.com/jobs/SearchJobs) |?|
 | Crowdstrike |   |Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
+| Coalfire Labs	 |   |?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 | DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
 | Dell Secure Works |   |Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dragos |   |Some| US remote | [Link!](https://dragos.com/careers/) | [Link!](https://jobs.lever.co/dragos) |?|
