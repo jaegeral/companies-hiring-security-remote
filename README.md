@@ -30,6 +30,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Coalfire Labs	 |   |?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 | DCSO |   |All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
 | Dell Secure Works |   |Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
+| Dow Jones |   |On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
 | Dragos |   |Some| US remote | [Link!](https://dragos.com/careers/) | [Link!](https://jobs.lever.co/dragos) |?|
 | Elastic |   |Some roles| Full remote | [Link!](https://www.elastic.co/about/careers/) | [Link!](https://www.elastic.co/about/careers/#engineering) |?|
 | Fastly |   |All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
