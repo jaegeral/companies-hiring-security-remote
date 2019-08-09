@@ -21,6 +21,7 @@ Company | Description | Areas hiring remote| Full remote / Regional remote | Sou
 | Alienvault |   | Some jobs|Full remote okay  | At a job posting page | [Link!](http://jobs.jobvite.com/alienvault/) |?|
 | Appsecconsulting |   | Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
 | Auth0 |   | All|Full remote okay  | Career Page | [Link!](https://auth0.com/careers) |?|
+| Bishop Fox |   | | Some areas | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.bishopfox.com/jobs/) |?|
 | BlackKnight |   | | Some areas | At a job posting page | [Link!](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |?|
 | BreakPoint Labs  |   | Some | Full remote | [Link!](https://twitter.com/0xcc_labs/status/1128640482635079680) | [Link!](http://breakpoint-labs.com/opportunities.php) |?|
 | Canonical  |   | Some | Full remote | At a job posting | [Link!](https://www.canonical.com/careers/all-vacancies) |?|
