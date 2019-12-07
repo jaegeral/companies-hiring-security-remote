@@ -72,6 +72,9 @@ Places to find remote job postings:
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
 * [Ninjajobs](https://ninjajobs.org/)
 
+Other lists
+* [yanirs/established-remote](https://github.com/yanirs/established-remote)
+
 ## FAQ
 
 Q: Company x is listed but does not offer a remote job at the moment - why is it listed?
