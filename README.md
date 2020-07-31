@@ -56,7 +56,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | US BanK | ?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ | Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
-| Recorded Future | Some areas| Full remote | Job Posting | [Link!](https://www.riskiq.com/about/careers/) |No|
+| Recorded Future | Some areas| Full remote | Job Posting | [Link!](https://www.recordedfuture.com/careers/#job-post) |No|
 | ReversingLabs | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://reversinglabs.workable.com) |?|
 | Salesforce | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Cyber-Detection--Response----Threat-Engineers_JR15818-1) |?|
 | SecurityScoreCard | Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
