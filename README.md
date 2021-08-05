@@ -76,6 +76,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | VMRay || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://employment.wellsfargo.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
+| Doyensec | Application Security Engineer | Full remote | [Link!](https://www.careers-page.com/doyensec-llc) | [Link!](https://www.careers-page.com/doyensec-llc) |?|
 
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
