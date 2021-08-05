@@ -31,6 +31,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Coalfire Labs	 | ?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 |Corelight| Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://corelight.com/company/careers/1443209/) | ? |
 | Datadog |  Some| Full remote |  | [Link!](https://www.datadoghq.com/jobs-other/) |?|
+| DataDome |  Some| Full remote (Based in France mainly, some in US) |  | [Link!](https://www.welcometothejungle.com/en/companies/datadome/jobs) |?|
 | DCSO |  All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
 | Dell Secure Works | Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dow Jones |  On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
