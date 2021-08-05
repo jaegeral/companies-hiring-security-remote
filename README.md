@@ -49,6 +49,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | ImmersiveLabs | Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
 | Inquest | Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel | Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
+| Ledn | Some| Full remote | Job posting | [Link!](https://jobs.lever.co/ledn/) |?|
 | Lets encrypt | All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
 | Leviathan Security Group | ?| Remote | [Link!](https://www.leviathansecurity.com/careers) | [Link!](https://www.leviathansecurity.com/careers) |?|
 | LinkedIn | All| Remote | [Link!](https://www.reuters.com/technology/linkedin-allow-most-employees-work-remotely-reversing-course-2021-07-29/) | [Link!](https://www.linkedin.com/job/home) |?|
