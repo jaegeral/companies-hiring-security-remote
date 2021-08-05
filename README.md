@@ -50,6 +50,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Intel | Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
 | Lets encrypt | All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
 | Leviathan Security Group | ?| Remote | [Link!](https://www.leviathansecurity.com/careers) | [Link!](https://www.leviathansecurity.com/careers) |?|
+| LinkedIn | All| Remote | [Link!](https://www.reuters.com/technology/linkedin-allow-most-employees-work-remotely-reversing-course-2021-07-29/) | [Link!](https://www.linkedin.com/job/home) |?|
 | Kaspersky | ?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft | PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
