@@ -53,6 +53,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
 | Novetta | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.novetta.com/careers/) |?|
 | phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
+| Platform.sh | All| Full remote | [Link!](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link!](https://platform.sh/company/careers/) |?|
 | Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | US BanK | ?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ | Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
