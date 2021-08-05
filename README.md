@@ -30,6 +30,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Crowdstrike | Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
 | Coalfire Labs	 | ?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 |Corelight| Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://corelight.com/company/careers/1443209/) | ? |
+| Datadog |  Some| Full remote |  | [Link!](https://www.datadoghq.com/jobs-other/) |?|
 | DCSO |  All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
 | Dell Secure Works | Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dow Jones |  On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
@@ -38,6 +39,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Fireeye | Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
+| Firebolt | Some areas| Full remote / Remote EU | [Link!](https://www.firebolt.io/career) | [Link!](https://www.firebolt.io/career) |?|
 | FoxIT | Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://www.fox-it.com/nl/werken-bij-fox-it/vacatures/vacancy/threat-analyst-2/) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
 | Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://careers.google.com/) |?|
@@ -52,6 +54,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft | PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
 | Major League Baseball | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](http://mlb.mlb.com/careers/index.jsp) |?|
+| Netskope | Some| Full remote | [Link!](https://www.netskope.com/company/careers/open-positions) | [Link!](https://www.netskope.com/company/careers/open-positions) |?|
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
 | Novetta | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.novetta.com/careers/) |?|
 | phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
@@ -67,6 +70,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link!](https://recordedfuture.com/careers/Open) |?|
 | tumblr | Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | TwelveSec | All| Full remote | [Link!](https://www.twelvesec.com/jobs/) | [Link!](https://twelvesec.workable.com/) |?|
+| Twilio | Some roles| Full remote | [Link!](https://www.twilio.com/de/company/jobs#open-positions) | [Link!](https://www.twilio.com/de/company/jobs#open-positions) |?|
 | Unit42 Palo Alto | Research| Full remote | [Link!](https://unit42.paloaltonetworks.com/about-unit-42/) | [Link!](https://jobs.jobvite.com/paloaltonetworks/jobs/all-jobs) |?|
 | VMRay || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://employment.wellsfargo.com/) |?|
