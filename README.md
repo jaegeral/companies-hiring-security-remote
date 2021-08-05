@@ -35,10 +35,12 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Dow Jones |  On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
 | Dragos | Some| US remote | [Link!](https://dragos.com/careers/) | [Link!](https://jobs.lever.co/dragos) |?|
 | Elastic | Some roles| Full remote | [Link!](https://www.elastic.co/about/careers/) | [Link!](https://www.elastic.co/about/careers/#engineering) |?|
+| Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Fireeye | Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
 | FoxIT | Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://www.fox-it.com/nl/werken-bij-fox-it/vacatures/vacancy/threat-analyst-2/) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
+| Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://careers.google.com/) |?|
 | Heroku | Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch | Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
 | ImmersiveLabs | Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
