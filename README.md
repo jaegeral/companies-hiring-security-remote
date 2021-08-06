@@ -51,6 +51,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | ImmersiveLabs | Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
 | Inquest | Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel | Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
+| Kraken |Most Roles|Full remote  | [Career Page](https://www.kraken.com/en-us/careers/) | [Link!](https://jobs.lever.co/kraken) |?|
 | Ledn | Some| Full remote | Job posting | [Link!](https://jobs.lever.co/ledn/) |?|
 | Lets encrypt | All| US remote | [Link!](https://letsencrypt.org/jobs/) | [Link!](https://letsencrypt.org/jobs/) |?|
 | Leviathan Security Group | ?| Remote | [Link!](https://www.leviathansecurity.com/careers) | [Link!](https://www.leviathansecurity.com/careers) |?|
@@ -81,8 +82,6 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | VMRay || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://employment.wellsfargo.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
-| Kraken |Most Roles|Full remote  | [Career Page](https://www.kraken.com/en-us/careers/) | [Link!](https://jobs.lever.co/kraken) |?|
-
 
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
