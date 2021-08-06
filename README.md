@@ -37,6 +37,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Dell Secure Works | Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dow Jones |  On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
 | Doyensec | Application Security Engineer | Full remote | [Link!](https://www.careers-page.com/doyensec-llc) | [Link!](https://www.careers-page.com/doyensec-llc) |?|
+| DNSFilter | All | Full remote (mainly in US) | DNSFilter Careers](https://apply.workable.com/dnsfilter/) | No |
 | Dragos | Some| US remote | [Link!](https://dragos.com/careers/) | [Link!](https://jobs.lever.co/dragos) |?|
 | Elastic | Some roles| Full remote | [Link!](https://www.elastic.co/about/careers/) | [Link!](https://www.elastic.co/about/careers/#engineering) |?|
 | Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
