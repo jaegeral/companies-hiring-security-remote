@@ -67,6 +67,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
 | Platform.sh | All| Full remote | [Link!](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link!](https://platform.sh/company/careers/) |?|
 | Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
+| Protonmail | Some| Full remote okay | | [Link!](| Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|) |?|
 | US BanK | ?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ | Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 | Recorded Future | Some areas| Full remote | Job Posting | [Link!](https://www.recordedfuture.com/careers/#job-post) |No|
