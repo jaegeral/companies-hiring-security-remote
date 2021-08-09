@@ -42,6 +42,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Elastic | Some roles| Full remote | [Link!](https://www.elastic.co/about/careers/) | [Link!](https://www.elastic.co/about/careers/#engineering) |?|
 | Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
+| Figma | All| US/Canada remote | Hiring Manager | [Link!](https://www.figma.com/careers) |No|
 | Fireeye | Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
 | Firebolt | Some areas| Full remote / Remote EU | [Link!](https://www.firebolt.io/career) | [Link!](https://www.firebolt.io/career) |?|
 | Fox-IT part of NCC Group | Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) |?|
