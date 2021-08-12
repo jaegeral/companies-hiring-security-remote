@@ -31,6 +31,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Crowdstrike | Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
 | Coalfire Labs	 | ?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 |Corelight| Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://corelight.com/company/careers/1443209/) | ? |
+|Cybereason| Multiple | US Remote | [Link!](https://jobs.cybereason.com/) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://jobs.cybereason.com/) | ? |
 | Datadog |  Some| Full remote |  | [Link!](https://www.datadoghq.com/jobs-other/) |?|
 | DataDome |  Some| Full remote (Based in France mainly, some in US) |  | [Link!](https://www.welcometothejungle.com/en/companies/datadome/jobs) |?|
 | DCSO |  All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
