@@ -23,6 +23,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Aurora Innovation | Product Security | US Remote | Hiring Manager | [Link!](https://aurora.tech/careers/) | No |
 | Auth0 |All|Full remote okay  | Career Page | [Link!](https://auth0.com/careers) |?|
 | Bishop Fox | | Some areas | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.bishopfox.com/jobs/) |?|
+| bill.com | | Some areas | [Link!](https://jobs.lever.co/bill) | [Link!](https://jobs.lever.co/bill) |?|
 | BlackKnight | | Some areas | At a job posting page | [Link!](https://blackknight.wd1.myworkdayjobs.com/BKC/0/refreshFacet/318c8bb6f553100021d223d9780d30be) |?|
 | BreakPoint Labs  | Some | Full remote | [Link!](https://twitter.com/0xcc_labs/status/1128640482635079680) | [Link!](http://breakpoint-labs.com/opportunities.php) |?|
 | Canonical | Some | Full remote | At a job posting | [Link!](https://www.canonical.com/careers/all-vacancies) |?|
@@ -78,6 +79,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | SecurityScoreCard | Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
 | Semmle | Some areas| Full remote | Job posting | [Link!](https://semmle.com/careers) |?|
 | Spotify | All | Full remote | [Link!](https://www.lifeatspotify.com/being-here/work-from-anywhere) | [Link!](https://www.lifeatspotify.com/jobs) | Yes |
+| SVA | Multiple | DE Remote | Job posting | Link! |?|
 | tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link!](https://recordedfuture.com/careers/Open) |?|
 | tumblr | Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | Trail of Bits | Some areas| Full remote | At a job posting page | [Link!](https://jobs.lever.co/trailofbits) |?|
