@@ -87,6 +87,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | VMRay || Full remote | [Link!](https://careers.vmray.com/en/recruiting/) | [Link!](hhttps://careers.vmray.com/jobs/) |?|
 | Wells Fargo | | Full remote | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://employment.wellsfargo.com/) |?|
 | Wikimedia Foundation | | Full remote | [Link!](https://wikimediafoundation.org/about/jobs/) | [Link!](https://wikimediafoundation.org/about/jobs/) |?|
+| Zero Day | Automotive Security | Regional Remote Central Europe | [Link!](https://zer0-day.de/project/linux-security-engineers/) | [Link!](https://zer0-day.de/project/) | Case by Case decision |
 
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
