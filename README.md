@@ -45,7 +45,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Figma | All| US/Canada remote | Hiring Manager | [Link!](https://www.figma.com/careers) |No|
-| Fireeye | Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Managed Defense, Mandiant Consulting, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
+| Fireeye | Deployment & Integration and Training Services, Endpoint, Engineering, FireEye Labs, Global Intelligence Operations, Innovation & Custom Engineering, Technical Operations & Reverse Engineering| Full remote / Remote US | [Link!](https://www.fireeye.com/company/jobs.html) | [Link!](https://www.fireeye.com/company/jobs.html) |?|
 | Firebolt | Some areas| Full remote / Remote EU | [Link!](https://www.firebolt.io/career) | [Link!](https://www.firebolt.io/career) |?|
 | Fox-IT part of NCC Group | Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
@@ -63,6 +63,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Kaspersky | ?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft | PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
+| Mandiant | Some| Remote | Click on Employees can work remotely button | [Link!](https://careers.smartrecruiters.com/Mandiant) |?|
 | Major League Baseball | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](http://mlb.mlb.com/careers/index.jsp) |?|
 | Netskope | Some| Full remote | [Link!](https://www.netskope.com/company/careers/open-positions) | [Link!](https://www.netskope.com/company/careers/open-positions) |?|
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
