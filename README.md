@@ -98,6 +98,7 @@ Places to find remote job postings:
 
 Other lists
 * [yanirs/established-remote](https://github.com/yanirs/established-remote)
+* [abhagsain/WFH-Companies-India](https://github.com/abhagsain/WFH-Companies-India)
 
 ## FAQ
 
