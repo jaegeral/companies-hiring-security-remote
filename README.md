@@ -94,6 +94,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 
 Places to find remote job postings: 
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
+* [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
 
 Other lists
