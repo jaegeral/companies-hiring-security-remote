@@ -20,6 +20,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 |---|---|---|---|---|---|
 | Alienvault | Some jobs|Full remote okay  | At a job posting page | [Link!](http://jobs.jobvite.com/alienvault/) |?|
 | Appsecconsulting |  Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
+| Astronomer |  Most jobs|Full remote okay  | At a job posting page | [Link!](https://www.astronomer.io/careers/#openings) |?|
 | Aurora Innovation | Product Security | US Remote | Hiring Manager | [Link!](https://aurora.tech/careers/) | No |
 | Auth0 |All|Full remote okay  | Career Page | [Link!](https://auth0.com/careers) |?|
 | Bishop Fox | | Some areas | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.bishopfox.com/jobs/) |?|
