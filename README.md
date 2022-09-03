@@ -37,6 +37,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Datadog |  Some| Full remote |  | [Link!](https://www.datadoghq.com/jobs-other/) |?|
 | DataDome |  Some| Full remote (Based in France mainly, some in US) |  | [Link!](https://www.welcometothejungle.com/en/companies/datadome/jobs) |?|
 | DCSO |  All| Full remote |  | [Link!](https://dcso.de/de/talente/) |?|
+| Deutsche Bahn / Systel | Some | Full remote (mostly Germany)| At a job posting|[Link!](https://karriere.deutschebahn.com/)|?|
 | Dell Secure Works | Some| Regional remote | [Link!](https://jobs.dell.com) | [Link!](https://jobs.dell.com) |?|
 | Dow Jones |  On a case by case basis| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://dowjones.jobs/) |?|
 | Doyensec | Application Security Engineer | Full remote | [Link!](https://www.careers-page.com/doyensec-llc) | [Link!](https://www.careers-page.com/doyensec-llc) |?|
