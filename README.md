@@ -52,6 +52,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Fox-IT part of NCC Group | Some areas| Full remote / Remote EU | [Link!](https://www.fox-it.com/en/working-at-fox-it/vacancies-overview/) | [Link!](https://nccgroup.wd3.myworkdayjobs.com/NCC_Group) |?|
 | Gitlab | All| Full remote | [Link!](https://about.gitlab.com/jobs/apply/) | [Link!](https://about.gitlab.com/jobs/apply/) |?|
 | Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://careers.google.com/) |?|
+| Gradle | Application Security Engineer | Full remote | [Link!](https://boards.greenhouse.io/gradle/jobs/4312252) | [Link!](https://boards.greenhouse.io/gradle/)
 | Heroku | Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch | Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
 | ImmersiveLabs | Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
