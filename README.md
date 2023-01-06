@@ -54,6 +54,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Google | Some| Full remote | [Link!](https://blog.google/inside-google/life-at-google/hybrid-approach-work) | [Link!](https://careers.google.com/) |?|
 | Heroku | Some| Full remote | [Link!](https://www.heroku.com/careers/) | [Link!](https://www.heroku.com/careers/) |?|
 | Human Rights Watch | Some| Full remote | [Link!](https://careers.hrw.org/) | [Link!](https://careers.hrw.org/) |?|
+| Human Rights Watch | All| Full remote | [Link!](https://www.humansecurity.com/company/careers) | [Link!](https://www.humansecurity.com/company/careers) |?|
 | ImmersiveLabs | Some| Full remote | [Link!](https://twitter.com/KevTheHermit/status/1128290827833311232) | [Link!](https://www.immersivelabs.com/careers/) |?|
 | Inquest | Some| Full US remote okay | Job posting | [Link!](https://inquest.net/) |?|
 | Intel | Some| Depending on the position | Job posting | [Link!](https://jobs.intel.com/) |?|
