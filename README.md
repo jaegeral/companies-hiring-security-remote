@@ -74,6 +74,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Novetta | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.novetta.com/careers/) |?|
 | phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
 | Platform.sh | All| Full remote | [Link!](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link!](https://platform.sh/company/careers/) |?|
+| Prelude | All | Full remote | [Link](https://www.preludesecurity.com/)| [Link](https://angel.co/company/prelude-1/jobs)                                                                                                                          |?|
 | Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
 | Protonmail | Some| Full remote okay | | [Link!](| Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|) |?|
 | US BanK | ?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
