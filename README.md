@@ -66,6 +66,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Leviathan Security Group | ?| Remote | [Link!](https://www.leviathansecurity.com/careers) | [Link!](https://www.leviathansecurity.com/careers) |?|
 | LinkedIn | All| Remote | [Link!](https://www.reuters.com/technology/linkedin-allow-most-employees-work-remotely-reversing-course-2021-07-29/) | [Link!](https://www.linkedin.com/job/home) |?|
 | Kaspersky | ?| Remote | [Link!](https://www.kaspersky.com/about/careers) | [Link!](https://careers.kaspersky.com) |?|
+| Material Security | All | Full Remote | [Link!](https://material.security/careers#available) | [Link!](https://material.security/careers#available) | No |
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft | PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
 | Mandiant | Some| Remote | Click on Employees can work remotely button | [Link!](https://careers.smartrecruiters.com/Mandiant) |?|
