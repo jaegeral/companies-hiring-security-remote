@@ -45,6 +45,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | DNSFilter | All | Full remote (mainly in US) | [DNSFilter Careers](https://dnsfilter.com/careers) | No |
 | Dragos | Some| US remote | [Link!](https://dragos.com/careers/) | [Link!](https://jobs.lever.co/dragos) |?|
 | Elastic | Some roles| Full remote | [Link!](https://www.elastic.co/about/careers/) | [Link!](https://www.elastic.co/about/careers/#engineering) |?|
+| Enable Security | Security | Full remote | [Link!](https://hs.enablesecurity.com/join-us/pentester) |[Link!](https://de.linkedin.com/company/enablesecurity)|?|
 | Facebook | Some roles| Full remote | [Link!](https://www.cnbc.com/2021/06/09/facebook-will-let-all-employees-who-can-work-remotely-to-request-full-time-remote-work.html) | [Link!](https://www.facebook.com/careers/) |?|
 | Fastly | All| Full remote | [Link!](https://www.fastly.com/about/careers) | [Link!](https://www.fastly.com/about/careers) |?|
 | Figma | All| US/Canada remote | Hiring Manager | [Link!](https://www.figma.com/careers) |No|
@@ -78,7 +79,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Platform.sh | All| Full remote | [Link!](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link!](https://platform.sh/company/careers/) |?|
 | Prelude | All | Full remote | [Link](https://www.preludesecurity.com/)| [Link](https://angel.co/company/prelude-1/jobs)                                                                                                                          |?|
 | Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|
-| Protonmail | Some| Full remote okay | | [Link!](| Proofpoint | Some| Regional remote | | [Link!](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers) |?|) |?|
+| Protonmail | Some| Full remote | | [Link!](https://careers.proton.me/#positions)|?|
 | US BanK | ?| US Remote | Twitter | [Link!](https://usbank.taleo.net) |?|
 | RiskIQ | Some areas| Full remote | Ninjajobs | [Link!](https://www.riskiq.com/about/careers/) |?|
 |Recon Infosec|All | Full remote | Career page | [Link!](https://www.reconinfosec.com/careers/) | ?|
@@ -89,8 +90,8 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Semmle | Some areas| Full remote | Job posting | [Link!](https://semmle.com/careers) |?|
 | Spotify | All | Full remote | [Link!](https://www.lifeatspotify.com/being-here/work-from-anywhere) | [Link!](https://www.lifeatspotify.com/jobs) | Yes |
 | SVA | Multiple | DE Remote | Job posting | [Link!](https://www.sva.de/de/job-portal/IT-Security-Consultant-Digital-Forensics-and-Incident-Resp-de-j250.html) |?|
-| tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link!](https://recordedfuture.com/careers/Open) |?|
-| tumblr | Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
+| Tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link!](https://recordedfuture.com/careers/Open) |?|
+| Tumblr | Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | Trail of Bits | Some areas| Full remote | At a job posting page | [Link!](https://jobs.lever.co/trailofbits) |?|
 | TwelveSec | All| Full remote | [Link!](https://twelvesec.com/careers/) | [Link!](https://twelvesec.workable.com/) |?|
 | Twilio | Some roles| Full remote | [Link!](https://www.twilio.com/de/company/jobs#open-positions) | [Link!](https://www.twilio.com/de/company/jobs#open-positions) |?|
