@@ -18,7 +18,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
 |---|---|---|---|---|---|
-| Abnormal Security | Most jobs|Full remote okay | At job posting page | [link!] (https://careers.abnormalsecurity.com/open-roles) |?|
+| Abnormal Security | Most jobs|Full remote okay | At job posting page | [Link!] (https://careers.abnormalsecurity.com/open-roles) |?|
 | Alienvault | Some jobs|Full remote okay  | At a job posting page | [Link!](http://jobs.jobvite.com/alienvault/) |?|
 | Appsecconsulting |  Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
 | Astronomer |  Most jobs|Full remote okay  | At a job posting page | [Link!](https://www.astronomer.io/careers/#openings) |?|
