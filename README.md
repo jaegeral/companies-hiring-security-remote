@@ -18,6 +18,7 @@ Remote is meant to allow people from anywhere (or at least anywhere in a given t
 
 Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Postings link|Open for contractors|
 |---|---|---|---|---|---|
+| Abnormal Security | Most jobs|Full remote okay | At job posting page | [link!] (https://careers.abnormalsecurity.com/open-roles) |?|
 | Alienvault | Some jobs|Full remote okay  | At a job posting page | [Link!](http://jobs.jobvite.com/alienvault/) |?|
 | Appsecconsulting |  Some jobs|Full remote okay  | At a job posting page | [Link!](https://www.appsecconsulting.com/company/careers/) |?|
 | Astronomer |  Most jobs|Full remote okay  | At a job posting page | [Link!](https://www.astronomer.io/careers/#openings) |?|
@@ -70,7 +71,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Material Security | All | Full Remote | [Link!](https://material.security/careers#available) | [Link!](https://material.security/careers#available) | No |
 | Mozilla | All| Full remote depending on the position | [Link!](https://careers.mozilla.org/) | [Link!](https://careers.mozilla.org/) |?|
 | Microsoft | PM| Remote US | [Search for State: Other!](https://careers.microsoft.com/) | [Link!](https://careers.microsoft.com/) |?|
-| Mandiant | Some| Remote | Click on Employees can work remotely button | [Link!](https://careers.smartrecruiters.com/Mandiant) |?|
+| Mandiant(Google) | Some| Remote | Search for Mandiant, IE: "Red Team Consultant, Mandiant, Google Cloud" | [Link!](https://www.google.com/about/careers/applications/jobs/results/) |?|
 | Major League Baseball | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](http://mlb.mlb.com/careers/index.jsp) |?|
 | Netskope | Some| Full remote | [Link!](https://www.netskope.com/company/careers/open-positions) | [Link!](https://www.netskope.com/company/careers/open-positions) |?|
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
