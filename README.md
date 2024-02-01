@@ -106,6 +106,7 @@ Places to find remote job postings:
 * [remoteok.io](https://remoteok.io/remote-infosec-jobs)
 * [Himalayas](https://himalayas.app/jobs/security)
 * [Ninjajobs](https://ninjajobs.org/)
+* [OkJob](https://okjob.io/)
 
 Other lists
 * [yanirs/established-remote](https://github.com/yanirs/established-remote)
