@@ -34,7 +34,9 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Crowdstrike | Engineering, Intelligence, Information Technology, Legal, Professional Services, R&D | Full remote / Remote US | [Link!](https://www.crowdstrike.com/careers/) | [Link!](https://www.crowdstrike.com/careers/) |?|
 | Coalfire Labs	 | ?| Full remote / Remote US | [Link!](https://www.coalfire.com/Careers) | [Link!](https://www.coalfire.com/Careers) |?|
 |Corelight| Multiple | Full Remote | [Corelight Career Page](https://www.corelight.com/company/careers#career-opportunities) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://corelight.com/company/careers/1443209/) | ? |
+|CommandLink| All | Full remote | Job posting | [Link](https://www.commandlink.com/careers/) | ? |
 |Cruise| All | Full Remote | [Cruise Career Page](getcruise.com/careers/jobs) | [Link!](getcruise.com/careers/jobs), [Link!](getcruise.com/careers/jobs), [Link!](getcruise.com/careers/jobs) | ? |
+|Cyberark| Most jobs | Remote US | Job posting | [Link](https://www.cyberark.com/careers/all-job-openings/) | ? |
 |Cybereason| Multiple | US Remote | [Link!](https://jobs.cybereason.com/) | [Link!](https://corelight.com/company/careers/1539941), [Link!](https://corelight.com/company/careers/1854588/), [Link!](https://jobs.cybereason.com/) | ? |
 | Datadog |  Some| Full remote |  | [Link!](https://www.datadoghq.com/jobs-other/) |?|
 | DataDome |  Some| Full remote (Based in France mainly, some in US) |  | [Link!](https://www.welcometothejungle.com/en/companies/datadome/jobs) |?|
@@ -75,6 +77,7 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | Major League Baseball | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](http://mlb.mlb.com/careers/index.jsp) |?|
 | Netskope | Some| Full remote | [Link!](https://www.netskope.com/company/careers/open-positions) | [Link!](https://www.netskope.com/company/careers/open-positions) |?|
 | Nextrons Systems | All| Partially Remote (weekly checkin to the office in DE) | After discussion with [Link!](https://twitter.com/cyb3rops) | [Link!](https://www.nextron-systems.com/jobs/) |?|
+| NikSoft Systems| Some | US Remote | [Link](https://www.niksoft.com/careers) | [Link](https://www.niksoft.com/careers)
 | Novetta | ?| ? | [Link!](https://malicious.link/post/2019/2019-bhdcbslv-hiring-list/) | [Link!](https://www.novetta.com/careers/) |?|
 | phobos.io | All| Full remote okay | [Link](https://phobos.io/careers) | [Link!](https://phobos.io/careers) |?|
 | Platform.sh | All| Full remote | [Link!](https://twitter.com/uchi_mata/status/1422974742571671554) | [Link!](https://platform.sh/company/careers/) |?|
@@ -90,8 +93,10 @@ Company |  Areas hiring remote| Full remote / Regional remote | Source | Job Pos
 | SecurityScoreCard | Some areas| Full remote | [Link!](https://securityscorecard.com/company/careers) | [Link!](https://securityscorecard.com/company/careers) |?|
 | Semmle | Some areas| Full remote | Job posting | [Link!](https://semmle.com/careers) |?|
 | Spotify | All | Full remote | [Link!](https://www.lifeatspotify.com/being-here/work-from-anywhere) | [Link!](https://www.lifeatspotify.com/jobs) | Yes |
+| Starburst | All | Full remote | Job posting | [Link](https://www.starburst.io/careers/open-roles/) | ? |
 | SVA | Multiple | DE Remote | Job posting | [Link!](https://www.sva.de/de/job-portal/IT-Security-Consultant-Digital-Forensics-and-Incident-Resp-de-j250.html) |?|
 | Tenable | Some Jobs| Full remote | [Link](https://recordedfuture.com/careers/Open) | [Link!](https://recordedfuture.com/careers/Open) |?|
+| ThunderYard | All | US Remote |Job Posting| [Link](https://thunderyard.com/) | ? |
 | Tumblr | Some areas| Full remote | Twitter | [Link!](https://www.tumblr.com/jobs) |?|
 | Trail of Bits | Some areas| Full remote | At a job posting page | [Link!](https://jobs.lever.co/trailofbits) |?|
 | TwelveSec | All| Full remote | [Link!](https://twelvesec.com/careers/) | [Link!](https://twelvesec.workable.com/) |?|
